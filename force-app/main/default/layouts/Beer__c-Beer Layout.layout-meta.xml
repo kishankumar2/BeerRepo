@@ -24,10 +24,6 @@
                 <field>brewery_Name__c</field>
             </layoutItems>
             <layoutItems>
-                <behavior>Readonly</behavior>
-                <field>Consumed_Quantity__c</field>
-            </layoutItems>
-            <layoutItems>
                 <behavior>Edit</behavior>
                 <field>Id__c</field>
             </layoutItems>
@@ -39,10 +35,7 @@
                 <behavior>Edit</behavior>
                 <field>Price__c</field>
             </layoutItems>
-            <layoutItems>
-                <behavior>Readonly</behavior>
-                <field>Remaining_Quantity__c</field>
-            </layoutItems>
+            
             <layoutItems>
                 <behavior>Edit</behavior>
                 <field>Tags__c</field>
